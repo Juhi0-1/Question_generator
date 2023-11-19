@@ -1,0 +1,9 @@
+.app{
+  
+  background: url(https://images.pexels.com/photos/1166644/pexels-photo-1166644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat  fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+
+ /* background-color: black; */
+} 
